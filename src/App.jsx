@@ -82,6 +82,48 @@ const PRODUCTS = [
     image: "https://m.media-amazon.com/images/I/71UPjZVlzzL._AC_SL1500_.jpg",
     url: "https://link.amazon/B08GsapWv",
   },
+  {
+    name: "Sofa Lounge",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/91wyrHsy+8L._AC_SL1500_.jpg",
+    url: "https://link.amazon/B03OLTI16",
+  },
+  {
+    name: "Smart Mirror",
+    category: "Tech",
+    image: "https://m.media-amazon.com/images/I/71MSsgwMZXL._AC_SL1500_.jpg",
+    url: "https://link.amazon/B0higDztR",
+  },
+  {
+    name: "Coca-Cola Mini Fridge",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/71uDoSPqr4L._AC_SL1500_.jpg",
+    url: "https://link.amazon/B0bKBPKUd",
+  },
+  {
+    name: "Spotify Plates",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/71g7j16FS3L._AC_SL1500_.jpg",
+    url: "https://link.amazon/B0iW6ayM6",
+  },
+  {
+    name: "Minecraft Fox Lamp",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/51Eg+cVtNIL._AC_SL1000_.jpg",
+    url: "https://link.amazon/B06TwotYg",
+  },
+  {
+    name: "LED Clouds",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/61ler2Tcp6L._AC_SL1500_.jpg",
+    url: "https://link.amazon/B0dssMnos",
+  },
+  {
+    name: "Lucky Charm Crystal Ball",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/71IsK0BE+IL._AC_SL1500_.jpg",
+    url: "https://link.amazon/B0bPBZMT1",
+  },
 ];
 
 /* ============================================================
