@@ -22,6 +22,43 @@ const PROFILE = {
 // the temporary image links before going fully live.
 const PRODUCTS = [
   {
+    name: "Iron Man Heart Reactor",
+    category: "Tech",
+    image: "https://m.media-amazon.com/images/I/81p5oQ6+a2L.jpg",
+    url: "https://link.amazon/B0gu5f3ht",
+    spotlight: true,
+  },
+  {
+    name: "Minecraft Torch",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/71ugdoPzz8L._AC_SL1500_.jpg",
+    url: "https://link.amazon/B01QSU9q3",
+  },
+  {
+    name: "Pegboard",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/71OHM5tsW0L._AC_SL1500_.jpg",
+    url: "https://link.amazon/B08g6WkJc",
+  },
+  {
+    name: "Aquatic Lamp",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/610-VyqNWwL._AC_SL1500_.jpg",
+    url: "https://link.amazon/B0e0rHaI1",
+  },
+  {
+    name: "Levitating Plant Pod",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/617Y4KBKarL._AC_SL1005_.jpg",
+    url: "https://link.amazon/B02mfbo2M",
+  },
+  {
+    name: "Wooden Nightstand",
+    category: "Home",
+    image: "https://m.media-amazon.com/images/I/81IG18Wyl7L._AC_SL1500_.jpg",
+    url: "https://link.amazon/B0bzUBRNK",
+  },
+  {
     name: "Fullstar Chopper",
     category: "Kitchen",
     image: "https://m.media-amazon.com/images/I/81+Y1HCEKVL._AC_SL1500_.jpg",
@@ -56,7 +93,6 @@ const PRODUCTS = [
     category: "Tech",
     image: "https://m.media-amazon.com/images/I/71fvnvI1q5L._AC_SY300_SX300_QL70_ML2_.jpg",
     url: "https://link.amazon/B0deWl6gd",
-    spotlight: true,
   },
   {
     name: "Govee LED Strip",
